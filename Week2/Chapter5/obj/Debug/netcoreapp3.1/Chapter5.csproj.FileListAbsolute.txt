@@ -1,0 +1,14 @@
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.exe
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.deps.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.runtimeconfig.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.runtimeconfig.dev.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.dll
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\bin\Debug\netcoreapp3.1\Chapter5.pdb
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csproj.AssemblyReference.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfoInputs.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.AssemblyInfo.cs
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.csproj.CoreCompileInputs.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.dll
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.pdb
+C:\Users\brandon.gunthner\Desktop\ProgProj\Week2\Week2\Chapter5\obj\Debug\netcoreapp3.1\Chapter5.genruntimeconfig.cache
